@@ -10,3 +10,4 @@ No | My Readings Notes
 4|[class03](class03.md)
 5|[class04](class04.md)
 6|[class05](class05.md)
+7|[class06](class06.md)
