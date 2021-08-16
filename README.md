@@ -12,3 +12,4 @@ No | My Readings Notes
 6|[class05](class05.md)
 7|[class06](class06.md)
 8|[class07](class07.md)
+9|[class08](class08.md)
