@@ -20,3 +20,4 @@ No | My Readings Notes
 14|[class13](class13.md)
 15|[class14](class14.md)
 16|[trees](trees.md)
+17|[class16](class16.md)
