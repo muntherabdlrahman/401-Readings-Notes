@@ -32,8 +32,8 @@
 
 Terms|Def
 -----|---
-1. Server Instances| collection of SQL Server databases which are run by a solitary SQL Server service or instance
-2. Containers | standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
-3. Cloud Services | services available via a remote cloud computing server rather than an on-site server 
-4. Cloud Architecture| Cloud architecture is the way technology components combine to build a cloud, in which resources are pooled through virtualization technology and shared across a network. The components of a cloud architecture include: A front-end platform (the client or device used to access the cloud) … A cloud-based delivery model.
-5. AWS| As the lead cloud computing platform, Amazon Web Services (AWS) is the primary profit driver for Amazon. AWS provides servers, storage, networking, remote computing, email, mobile development, and security. AWS accounts for about 13% of Amazon’s total revenue as of Q2 2021.
+Server Instances| collection of SQL Server databases which are run by a solitary SQL Server service or instance
+Containers | standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
+Cloud Services | services available via a remote cloud computing server rather than an on-site server 
+Cloud Architecture| Cloud architecture is the way technology components combine to build a cloud, in which resources are pooled through virtualization technology and shared across a network. The components of a cloud architecture include: A front-end platform (the client or device used to access the cloud) … A cloud-based delivery model.
+AWS| As the lead cloud computing platform, Amazon Web Services (AWS) is the primary profit driver for Amazon. AWS provides servers, storage, networking, remote computing, email, mobile development, and security. AWS accounts for about 13% of Amazon’s total revenue as of Q2 2021.
