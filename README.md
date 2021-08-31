@@ -23,3 +23,5 @@ No | My Readings Notes
 17|[class16](class16.md)
 18|[class17](class17.md)
 19|[class18](class18.md)
+20|[class19](class19.md)
+
