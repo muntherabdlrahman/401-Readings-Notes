@@ -27,4 +27,6 @@ No | My Readings Notes
 21|[class26](class26.md)
 22|[class27](class27.md)
 23|[class28](class28.md)
+24|[class29](class29.md)
+
 
