@@ -29,6 +29,8 @@ No | My Readings Notes
 23|[class28](class28.md)
 24|[class29](class29.md)
 25|[HashTables](HashTables.md)
+26|[class31](class31.md)
+
 
 
 
