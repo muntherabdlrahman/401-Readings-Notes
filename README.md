@@ -31,7 +31,7 @@ No | My Readings Notes
 25|[HashTables](HashTables.md)
 26|[class31](class31.md)
 27|[class32](class32.md)
-28|[class33](class33.ms)
+28|[class33](class33.md)
 
 
 
