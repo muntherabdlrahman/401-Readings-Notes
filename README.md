@@ -32,11 +32,8 @@ No | My Readings Notes
 26|[class31](class31.md)
 27|[class32](class32.md)
 28|[class33](class33.md)
-<<<<<<< HEAD
 29|[class34](class34.md)
 30|[Graghs](Graghs.md)
-=======
->>>>>>> d648ca2f590886c1c4079959be2cd65e4fd2c5a6
 
 
 
