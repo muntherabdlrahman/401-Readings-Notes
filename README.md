@@ -34,6 +34,7 @@ No | My Readings Notes
 28|[class33](class33.md)
 29|[class34](class34.md)
 30|[Graghs](Graghs.md)
+31|[class36](class36.md)
 
 
 
